@@ -181,3 +181,4 @@ C:\Users\KMC\Desktop\C# project\Class-Scheduling-Management-System\app\bin\Debug
 C:\Users\KMC\Desktop\C# project\Class-Scheduling-Management-System\app\bin\Debug\net8.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
 C:\Users\KMC\Desktop\C# project\Class-Scheduling-Management-System\app\bin\Debug\net8.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
 C:\Users\KMC\Desktop\C# project\Class-Scheduling-Management-System\app\bin\Debug\net8.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\KMC\Desktop\C# project\Class-Scheduling-Management-System\app\obj\Debug\net8.0-windows\app.sourcelink.json
