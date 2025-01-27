@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "Se/gf0o3hu4=",
+  "dgSpecHash": "S+lBg3mAkqo=",
   "success": true,
   "projectFilePath": "C:\\Users\\KMC\\Desktop\\C# project\\Class-Scheduling-Management-System\\app\\app.csproj",
   "expectedPackageFiles": [
@@ -44,7 +44,7 @@
     "C:\\Users\\KMC\\.nuget\\packages\\runtime.linux-x64.runtime.native.system.io.ports\\9.0.1\\runtime.linux-x64.runtime.native.system.io.ports.9.0.1.nupkg.sha512",
     "C:\\Users\\KMC\\.nuget\\packages\\runtime.maccatalyst-arm64.runtime.native.system.io.ports\\9.0.1\\runtime.maccatalyst-arm64.runtime.native.system.io.ports.9.0.1.nupkg.sha512",
     "C:\\Users\\KMC\\.nuget\\packages\\runtime.maccatalyst-x64.runtime.native.system.io.ports\\9.0.1\\runtime.maccatalyst-x64.runtime.native.system.io.ports.9.0.1.nupkg.sha512",
-    "C:\\Users\\KMC\\.nuget\\packages\\runtime.native.system.data.sqlclient.sni\\4.4.0\\runtime.native.system.data.sqlclient.sni.4.4.0.nupkg.sha512",
+    "C:\\Users\\KMC\\.nuget\\packages\\runtime.native.system.data.sqlclient.sni\\4.7.0\\runtime.native.system.data.sqlclient.sni.4.7.0.nupkg.sha512",
     "C:\\Users\\KMC\\.nuget\\packages\\runtime.native.system.io.ports\\9.0.1\\runtime.native.system.io.ports.9.0.1.nupkg.sha512",
     "C:\\Users\\KMC\\.nuget\\packages\\runtime.osx-arm64.runtime.native.system.io.ports\\9.0.1\\runtime.osx-arm64.runtime.native.system.io.ports.9.0.1.nupkg.sha512",
     "C:\\Users\\KMC\\.nuget\\packages\\runtime.osx-x64.runtime.native.system.io.ports\\9.0.1\\runtime.osx-x64.runtime.native.system.io.ports.9.0.1.nupkg.sha512",
@@ -58,7 +58,7 @@
     "C:\\Users\\KMC\\.nuget\\packages\\system.configuration.configurationmanager\\9.0.1\\system.configuration.configurationmanager.9.0.1.nupkg.sha512",
     "C:\\Users\\KMC\\.nuget\\packages\\system.data.odbc\\9.0.1\\system.data.odbc.9.0.1.nupkg.sha512",
     "C:\\Users\\KMC\\.nuget\\packages\\system.data.oledb\\9.0.1\\system.data.oledb.9.0.1.nupkg.sha512",
-    "C:\\Users\\KMC\\.nuget\\packages\\system.data.sqlclient\\4.9.0\\system.data.sqlclient.4.9.0.nupkg.sha512",
+    "C:\\Users\\KMC\\.nuget\\packages\\system.data.sqlclient\\4.8.6\\system.data.sqlclient.4.8.6.nupkg.sha512",
     "C:\\Users\\KMC\\.nuget\\packages\\system.diagnostics.diagnosticsource\\6.0.1\\system.diagnostics.diagnosticsource.6.0.1.nupkg.sha512",
     "C:\\Users\\KMC\\.nuget\\packages\\system.diagnostics.eventlog\\9.0.1\\system.diagnostics.eventlog.9.0.1.nupkg.sha512",
     "C:\\Users\\KMC\\.nuget\\packages\\system.diagnostics.performancecounter\\9.0.1\\system.diagnostics.performancecounter.9.0.1.nupkg.sha512",
