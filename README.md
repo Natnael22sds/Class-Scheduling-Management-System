@@ -38,7 +38,6 @@ ClassSchedulerSystem/
 ├── Controllers/               # C# Controllers for logic handling
 ├── Models/                    # Entity models for database
 ├── Views/                     # Razor views (.cshtml) for frontend
-├── wwwroot/                   # Static files (CSS, JS, images)
 ├── Data/                      # Database context and migrations
 ├── Services/                  # Business logic and helpers
 ├── appsettings.json           # Database connection settings
